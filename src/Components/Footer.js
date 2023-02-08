@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div class="mt-24 pt-12 pb-8 bg-neutral-100 border-stone-100 text-slate-700 ">
+    <div class="mt-24 pt-12 pb-6 bg-neutral-100 border-stone-100 text-slate-700 ">
       <div class="container px-6 my:0 mx-auto grid grid-cols-6 gap-x-12 md:flex md:w-full md:gap-y-7 lg:px-16">
         <div class="col-span-3 md:w-1/4">
           <p class="mb-8 text-lg font-medium">Contact us</p>

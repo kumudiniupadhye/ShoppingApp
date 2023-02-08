@@ -4,7 +4,7 @@ import { data } from "../Data";
 
 function Home() {
   return (
-    <div className="flex justify-content-between m-6">
+    <div className="flex justify-content-between m-8">
       {data.map((item, index) => (
         <div key={index} className=" flex">
           <div className=" w-52 bg-slate-300 rounded shadow-xl m-4 break:words text-md p-2">
